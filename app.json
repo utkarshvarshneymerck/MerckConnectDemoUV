@@ -1,5 +1,5 @@
 {
-	"name": "Heroku Connect Demo",
+	"name": "Heroku-Connect-Demo-UV",
 	"description": "Heroku Connect Sample App for Demo",
 	"repository": "https://github.com/utkarshvarshneymerck/MerckConnectDemoUV",
 	"success_url": "/setup.html",
