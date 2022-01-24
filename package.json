@@ -1,5 +1,5 @@
 {
-	"name": "Heroku Connect Demo",
+	"name": "Heroku-Connect-Demo-UV",
 	"version": "0.0.0",
 	"description": "Heroku Connect Sample App for Demo",
 	"main": "server.js",
