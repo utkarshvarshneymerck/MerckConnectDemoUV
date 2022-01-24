@@ -1,0 +1,17 @@
+{
+	"name": "Heroku Connect Demo",
+	"version": "0.0.0",
+	"description": "Heroku Connect Sample App for Demo",
+	"main": "server.js",
+	"srcipts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.13.1",
+		"body-parser": "^1.13.2",
+		"pg": "^4.4.0"
+	},
+	"engines": {
+		"node": "0.12.7"
+	}
+}
